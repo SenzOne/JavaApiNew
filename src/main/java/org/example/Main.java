@@ -12,5 +12,10 @@ public class Main {
 
 
         System.out.println("hhahahahah");
+        System.out.println("hhahahahah");
+        System.out.println("hhahahahah");
+        System.out.println("hhahahahah");
+        System.out.println("hhahahahah");
+        System.out.println("hhahahahah");
     }
 }
