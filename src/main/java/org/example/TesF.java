@@ -1,0 +1,1 @@
+package org.example;public class TesF {    public static void main(String[] args) {        System.out.println("res Test");        System.out.println("res Test");        System.out.println("res Test");        System.out.println("res Test");        System.out.println("res Test");        System.out.println("sldfkjslkdf");    }}
